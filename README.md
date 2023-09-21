@@ -1,3 +1,5 @@
+![bassier_cover_qwq](bassier_series_cover.png)
+
 # qwqqwqqwq
 
 我写着玩的。
