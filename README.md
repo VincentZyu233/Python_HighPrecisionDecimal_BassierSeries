@@ -14,5 +14,7 @@ Approximate: 1.644925334
 [Done] exited with code=0 in 74.957 seconds
 ```
 
-emmm, 似乎精度还是不太够
-python真的好慢 qwq
+emmm, 似乎精度还是不太够  
+
+还有python真的好慢 qwq  
+是我的计算方式不够好吗
